@@ -2,8 +2,6 @@
 from time import *
 import random as rd
 
-print(time())
-
 def mistake(para, input):
     error = 0
     for i in range(len(para)):
